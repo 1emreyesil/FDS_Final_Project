@@ -7,7 +7,7 @@ The present repository contains the solutions to the FDS Final Project for the y
 - Nihal Yaman Yılmaz ([Nihal-yaman](https://github.com/Nihal-yaman))
   
 ## Files Overview
-- `main.ipynb`: This is the main notebook containing the solutions to the homework, along with a command to install the required packages.
+- `main.ipynb`: This is the main notebook containing the solutions to the project, along with a command to install the required packages.
 - `dataset (Folder)`: This folder include the dataset csv files that we used in our porject.
 
 ## Project Abstract: Depression Detection Using Behavioral Data and PHQ4 Score
