@@ -1,8 +1,7 @@
 # Depression Detection Using Behavioral Data and PHQ4 Score
 The present repository contains the solutions to the FDS Final Project for the year 2024/2025.
 
-#### Collaborators (Group 12):
-- Leonardo Rocci ([cycileo](https://github.com/cycileo))
+#### Collaborators (Group 30):
 - Emre Yesil ([1emreyesil](https://github.com/1emreyesil)) 
 - Recep Yılmaz ([Rezeb](https://github.com/Rezeb))
 - Nihal Yaman Yılmaz ([Nihal-yaman](https://github.com/Nihal-yaman))
