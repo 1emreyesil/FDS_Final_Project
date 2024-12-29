@@ -12,6 +12,7 @@ The present repository contains the solutions to the FDS Final Project for the y
 ## Files Overview
 - `main.ipynb`: This is the main notebook containing the solutions to the project, along with a command to install the required packages.
 - `dataset (Folder)`: This folder include the dataset csv files that we used in our porject.
+- `main.rar`: This rar file is the main.ipynb file's zipped file. Our ipynb file is large, if you have any problem to download, you can use this file.
 
 ## Project Abstract: Depression Detection Using Behavioral Data and PHQ4 Score
 
