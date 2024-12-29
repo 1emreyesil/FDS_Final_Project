@@ -1,6 +1,6 @@
 # Depression Detection Using Behavioral Data and PHQ4 Score
 
-This repository contains a machine learning project aimed at forecasting depression levels based on a combination of activity data, survey results, and mobile data. The dataset used includes information such as user activity, sleep data, and survey results (specifically the PHQ-4 test) to predict depression levels. The project includes various stages such as data preprocessing, exploratory data analysis (EDA), feature engineering, dimensionality reduction using PCA, and model application. In this project our main dataset was [College Experience Study Dataset](https://www.kaggle.com/datasets/subigyanepal/college-experience-dataset)
+This repository contains a machine learning project aimed at forecasting depression levels based on a combination of activity data, survey results, and mobile data. The dataset used includes information such as user activity, sleep data, and survey results (specifically the PHQ-4 test) to predict depression levels. The project includes various stages such as data preprocessing, exploratory data analysis (EDA), feature engineering, dimensionality reduction using PCA, and model application. 
 
 The present repository contains the solutions to the FDS Final Project for the year 2024/2025.
 
@@ -46,3 +46,5 @@ The **PHQ-4** (Patient Health Questionnaire-4) is a four-item screening tool des
 4. **Not being able to stop or control worrying?**
 
 These questions are using for calculating PHQ-4 Score. In this project first 2 question of them were used to calculate the depression score in this project, which is a key target variable for model training and evaluation.
+
+As you can find the csv files that we used but our main dataset was [College Experience Study Dataset](https://www.kaggle.com/datasets/subigyanepal/college-experience-dataset). Thanks for collobration.
